@@ -11,4 +11,5 @@ A visual Representation of the final dataset can be seen in the added Figure.
 
 With the help of this Catalogue the rest of this Bachelor Project is excecuted.
 
+![image](https://user-images.githubusercontent.com/77166586/118407278-61ee2c00-b680-11eb-8afa-141dcf830326.png)
 
