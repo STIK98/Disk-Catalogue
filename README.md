@@ -11,6 +11,9 @@ An observation log from the ESO archive was taken on 12-04-2021 containing all t
 A visual Representation of the final dataset can be seen in the added Figure.
 ![image](https://user-images.githubusercontent.com/77166586/118407278-61ee2c00-b680-11eb-8afa-141dcf830326.png)
 
+Important!
+The final YoungStars_Catalogue.txt file has a ';' delimiter. This needs to be taken into account when loading in the DataFrame.
+
 With the help of this Catalogue the rest of this Bachelor Project is excecuted. The second part will focus on Scorpius-Centaurus systems. Mainly:
 1. Lupus: DEC(-31°58 tot -44°30), RA(16h43 tot 15h33)
 2. Corona Australis: DEC(-35°55 tot -39°11), RA(19h29 tot 18h56)
