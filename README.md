@@ -9,7 +9,7 @@ An observation log from the ESO archive was taken on 12-04-2021 containing all t
 4. The final catalogue is compiled, going from 75000 log entries, to 203 Young Stars, Shown in a MultiIndex.
 
 A visual Representation of the final dataset can be seen in the added Figure.
-![image](https://user-images.githubusercontent.com/77166586/118651259-a515df80-b7e5-11eb-8bbb-5d02950c8ff2.png)
+![image](https://user-images.githubusercontent.com/77166586/118669018-ae0ead00-b7f5-11eb-9c9f-6090f50ba09d.png)
 
 Important!
 The final YoungStars_Catalogue.txt file has a ';' delimiter. This needs to be taken into account when loading in the DataFrame.
@@ -20,4 +20,4 @@ With the help of this Catalogue the rest of this Bachelor Project is excecuted. 
 3. Rho Ophiuchus: DEC(-23° tot -25°30), RA(16h44 tot 16h20)
 
 Their positions in the Disk Catalogue can be seen in the added figure:
-![image](https://user-images.githubusercontent.com/77166586/118653088-7bf64e80-b7e7-11eb-8ab6-bd363baa4559.png)
+![image](https://user-images.githubusercontent.com/77166586/118668944-99cab000-b7f5-11eb-9641-d9b8f6525aca.png)
