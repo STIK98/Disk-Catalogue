@@ -20,4 +20,4 @@ With the help of this Catalogue the rest of this Bachelor Project is excecuted. 
 3. Rho Ophiuchus: DEC(-23° tot -25°30), RA(16h44 tot 16h20)
 
 Their positions in the Disk Catalogue can be seen in the added figure:
-![image](https://user-images.githubusercontent.com/77166586/118651290-ae9f4780-b7e5-11eb-8bf6-0863ca7c9f85.png)
+![image](https://user-images.githubusercontent.com/77166586/118653088-7bf64e80-b7e7-11eb-8ab6-bd363baa4559.png)
