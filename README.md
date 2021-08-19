@@ -1,4 +1,4 @@
-# Disk_Catalogue
+# YOung Stars CAtalgoue
 This is an ongoing project for my bachelor thesis. My goal is to create a catalogue of protoplanetary disks measured in NIR with the use of Polarimetry. 
 
 An observation log from the ESO archive was taken on 12-04-2021 containing all the perfomed observations with the VLT/Sphere/irdis module. From there the raw data was compiled into an extensive Catalogue with the help of a Catalogue_Compiler script in Jupyter Notebooks. This consists of 4 parts, as can be seen in the added code:
