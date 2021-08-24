@@ -1,7 +1,7 @@
 # YOung Stars CAtalgoue
 This is a project for my bachelor thesis. The goal was to create a catalogue of protoplanetary disks observed in NIR with the use of Polaremetric Differential Imaging (PDI). 
 
-An observation log from the ESO archive was taken on 12-04-2021 containing all the perfomed observations with the VLT/SPHERE/IRDIS module. From there the raw data was compiled into an extensive Catalogue with the help of a Catalogue_Compiler script in Jupyter Notebooks. This consists of 4 parts, as can be seen in the added code:
+An observation log from the ESO archive was taken on 12-04-2021 containing all the perfomed observations with VLT/SPHERE/IRDIS. From there the raw data was compiled into an extensive Catalogue with the help of a Catalogue_Compiler script in Jupyter Notebooks. This consists of 4 parts, as can be seen in the added code:
 
 1. The DIMM seeing at start was averaged for every individual day, so the slight difference in DIMM values is changed.
 2. Slight ofsetts in the names and coordinates of each individual object were rectified
